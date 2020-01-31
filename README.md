@@ -2,6 +2,8 @@
 
 ## University
 - [List of all the universities already learning blockchain and building projects](https://mousebelt.university/universities/)
+## Community
+- [Gold miner](https://github.com/xitu/gold-miner)
 ## paper
 - [Anti-Money Laundering in Bitcoin](https://github.com/Billy1900/Blockchain-learning/blob/master/Anti-Money%20Laundering%20in%20Bitcoin.pdf)
    
