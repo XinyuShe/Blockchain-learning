@@ -11,5 +11,5 @@ HiBlock 秉承开放、协作、透明、链接、分享的价值观，致力打
 [HiBlock仓库1](https://github.com/HiBlock/)  
 [HiBlock仓库2](https://github.com/etherchina/)  
 
-# 学习资源
+## 学习资源(main)
 - [Hiblock学习以太坊:](https://github.com/HiBlock/awesome-ethereum)工程上实践以太坊
