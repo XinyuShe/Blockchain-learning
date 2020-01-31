@@ -21,3 +21,6 @@
 
 ## Ethereum
 - [Hiblock社区-Learn Ethereum: ](https://github.com/Billy1900/Blockchain-learning/blob/master/Ethereum/Learn-Ethereum.md)工程上实践以太坊
+- [更全的Ethereum技术资源](https://github.com/Billy1900/Blockchain-learning/blob/master/Ethereum/awesome-Ethereum.md)
+
+## Fabric
