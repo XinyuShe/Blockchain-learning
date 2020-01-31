@@ -17,3 +17,5 @@
 - [Bitcoin Reading List](https://github.com/Billy1900/Blockchain-learning/blob/master/Bitcoin/bitcoin-reading-list.md)
 - [Bitcoin Simulator: ](https://github.com/arthurgervais/Bitcoin-Simulator)
   Bitcoin-Simulator, capable of simulating any re-parametrization of Bitcoin
+- [Blockchain-Developer-Resources:](https://github.com/Billy1900/Blockchain-learning/blob/master/Bitcoin/Blockchain-Developer-Resources.md)
+  A list of opininated links to resources useful to blockchain and bitcoin developers.
