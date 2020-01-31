@@ -12,13 +12,12 @@
 - [区块链问题总结](https://github.com/Billy1900/Blockchain-learning/blob/master/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.pdf)
 
 ## Bitcoin
-- [比特币技术入门--Mastering Bitcoin：](https://github.com/Billy1900/Blockchain-learning/blob/master/Mastering%20Bitcoin.pdf)
-  技术原理入门书籍
+- [比特币技术入门--Mastering Bitcoin：](https://github.com/Billy1900/Blockchain-learning/blob/master/Mastering%20Bitcoin.pdf)技术原理入门书籍
 - [Bitcoin Reading List](https://github.com/Billy1900/Blockchain-learning/blob/master/Bitcoin/bitcoin-reading-list.md)
 - [Bitcoin Simulator: ](https://github.com/arthurgervais/Bitcoin-Simulator)
   Bitcoin-Simulator, capable of simulating any re-parametrization of Bitcoin
-- [Blockchain-Developer-Resources:](https://github.com/Billy1900/Blockchain-learning/blob/master/Bitcoin/Blockchain-Developer-Resources.md)
+- [Blockchain-Developer-Resources: ](https://github.com/Billy1900/Blockchain-learning/blob/master/Bitcoin/Blockchain-Developer-Resources.md)
   A list of opininated links to resources useful to blockchain and bitcoin developers.
 
 ## Ethereum
-- [Hiblock社区-Learn Ethereum:](https://github.com/Billy1900/Blockchain-learning/blob/master/Ethereum/Learn-Ethereum.md)工程上实践以太坊
+- [Hiblock社区-Learn Ethereum: ](https://github.com/Billy1900/Blockchain-learning/blob/master/Ethereum/Learn-Ethereum.md)工程上实践以太坊
