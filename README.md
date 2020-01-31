@@ -16,5 +16,4 @@
   技术原理入门书籍
 - [Bitcoin Reading List](https://github.com/Billy1900/Blockchain-learning/blob/master/Bitcoin/bitcoin-reading-list.md)
 - [Bitcoin Simulator: ](https://github.com/arthurgervais/Bitcoin-Simulator)
-
   Bitcoin-Simulator, capable of simulating any re-parametrization of Bitcoin
