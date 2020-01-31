@@ -17,6 +17,7 @@
 
 ## Others
 - [Blockchain 区块链 - 中文资源阅读列表](https://github.com/LiuBoyu/blockchain)
+- [Blockchain 安全问题搜集](https://github.com/Billy1900/Blockchain-learning/blob/master/Blockchain-security-collections.md)
 
 ## Bitcoin
 - [比特币技术入门--Mastering Bitcoin：](https://github.com/Billy1900/Blockchain-learning/blob/master/Mastering%20Bitcoin.pdf)技术原理入门书籍
