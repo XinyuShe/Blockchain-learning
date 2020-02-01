@@ -99,7 +99,7 @@ Since the Dapp.com Ranking is a linearly cumulative continuous function that dec
 ## 7.1 Metrics
 -	Stake usage: a better indication of dapp support among major EOS token holders
 -	Users:  
-![image](https://github.com/Billy1900/Blockchain-DAPP-Metrics/blob/master/123.png)
+![image](https://github.com/Billy1900/Blockchain-learning/blob/master/DAPP/123.png)
 -	Total transactions
 
 
