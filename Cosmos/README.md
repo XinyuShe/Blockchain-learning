@@ -140,5 +140,5 @@ Use the same mechanism to unlock the token when they return to the original chai
 
 If there is still something you don’t understand, please read in Tendermint documentation.
 
-##5. cosmos-sdk documentation 
+## 5. cosmos-sdk documentation 
 （https://cosmos.network/docs/）
