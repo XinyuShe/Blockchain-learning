@@ -5,6 +5,9 @@
 ## Community
 - [Gold miner](https://github.com/xitu/gold-miner)
 - [360区块链实验室文档](https://github.com/XChainLab/documentation)
+## Book
+- [区块链指南](https://github.com/yeasy/blockchain_guide)
+
 ## Paper
 - [Academic Blockchain Papers](https://github.com/jianyu-niu/blockchain_conference_paper)
 - [Anti-Money Laundering in Bitcoin](https://github.com/Billy1900/Blockchain-learning/blob/master/Anti-Money%20Laundering%20in%20Bitcoin.pdf)
